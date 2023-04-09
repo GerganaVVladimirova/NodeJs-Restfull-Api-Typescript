@@ -1,0 +1,14 @@
+{
+"compilerOptions": {
+    "target": "ES2015", 
+    "module": "commonjs", 
+    "strict": true, 
+    "outDir": "dist" ,
+    "esModuleInterop" :true,
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "forceConsistentCasingInFileNames" :true
+    },
+    "include": ["src/**/*.ts", "tests/**/*.ts"],
+    "exclude": ["node_modules", ".vscode"]
+}

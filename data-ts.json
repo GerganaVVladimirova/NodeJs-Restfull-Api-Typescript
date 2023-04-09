@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "firstName": "Geri",
+    "lastName": "Vladimirova",
+    "age": 30,
+    "coolness": 10
+  },
+  {
+    "id": 2,
+    "firstName": "Aleks",
+    "lastName": "Something",
+    "age": 20,
+    "coolness": 1
+  },
+  {
+    "id": 3,
+    "firstName": "Sonq",
+    "lastName": "Ilieva",
+    "age": 55,
+    "coolness": 3
+  },
+  {
+    "id": 4,
+    "firstName": "Ivancho",
+    "lastName": "Georgiev4",
+    "age": 55,
+    "coolness": 3
+  }
+]
